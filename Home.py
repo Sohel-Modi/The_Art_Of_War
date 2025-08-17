@@ -35,7 +35,8 @@ st.markdown(
 # Your rest of Home.py content…
 st.markdown("<h1>🎖️ Art of War</h1>", unsafe_allow_html=True)
 st.markdown("""
-###  Welcome to the Military Data Analysis Platform
+###  Welcome to 
+The Military Data Analysis Platform
 
 Embark on a journey through the unseen dynamics of global defense.
 
@@ -45,5 +46,6 @@ Embark on a journey through the unseen dynamics of global defense.
 - **Trade & Alliances** – map out import/export flows and partnerships  
 - **Hidden Patterns** – uncover insights with interactive charts  
 
-Dive deep into data and explore the forces shaping our world — all in one place!
+Dive deep into data and explore the forces shaping our world 
+            — all in one place!
 """)
