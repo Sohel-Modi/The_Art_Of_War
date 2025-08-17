@@ -1,42 +1,39 @@
-# The Art Of War : The Military Data Analysis Platform
+# The Art Of War 
 
 In an era of complex geopolitical dynamics, understanding global military landscapes is more critical than ever. Our **Military Data Analysis Platform** provides a comprehensive, data-driven exploration of global military power. Using interactive visualizations, this platform deciphers trends in defense spending, international arms trade, and historical conflicts, offering clear insights into the forces shaping global security.
 
 
-## Overview
-This Streamlit app visualizes global military data, including:
-- Interactive World Map of military power
-- Country-to-country military strength comparisons
-- Defense budget trends over time
-- Top defense companies analysis
-- Military exports/imports data
-- Historical major conflicts dashboard
-- Future military power projections (2047)
+![The Art Of War](assets/HomePage.png)
 
-![The Art Of War](assets\HomePage.png)
-\<br\>
 
 ## Contributors
 
 
-1.  **[Your Name]**\<br\>
-    Global Power Overview & Project Lead
-2.  **[Contributor's Name]**\<br\>
-    Military Strength Comparison
-3.  **[Contributor's Name]**\<br\>
-    Historical Conflicts Analysis
-4.  **[Contributor's Name]**\<br\>
-    Defense Budgets & Trade Data
-5.  **[Contributor's Name]**\<br\>
-    Future Power Projections
-6. **[Contributor's Name]**\<br\>
-    Future Power Projections
-7. **[Contributor's Name]**\<br\>
-    Future Power Projections
-8. **[Contributor's Name]**\<br\>
-    Future Power Projections
+1.  **Divya Sharma** 
+         
+      Global Power Overview 
+2.  **Abhinandan Singh Baghel**
+      
+      Military Strength Comparison
+3.  **Devansh Mehta**
 
-\<br\>
+      Defense Budgets 
+4.  **Ujjaval Patel**
+
+      Military Expenditure
+5.  **Abhijeet Rajput**
+
+      Trade Data Analysis
+6. **Vishal Kumar**
+
+      Defense Companies
+7. **Sohel Modi**
+
+      Historical Conflicts Analysis
+8. **Kamal Kant Tripathi**
+
+      Future Power Projections
+
 
 -----
 
@@ -48,11 +45,9 @@ This interactive world map provides a high-level view of military strength acros
   - Hover-over tooltips with key statistics for each country.
   - Filters to customize the data displayed on the map.
 
-\<br\>
 
-![OverView](assets\OverView.png()
+![OverView](assets/OverView.png)
 
-\<br\>
 
 -----
 
@@ -64,10 +59,8 @@ Select any two nations to generate a direct, side-by-side comparison of their mi
   - Equipment inventories across air, land, and sea.
   - Logistical capabilities and resource availability.
 
-\<br\>
-![MiliTary Strength](assets\Military Strength.png)
+![MilitaryStrength](assets/Military_Strength.png)
 
-\<br\>
 
 -----
 
@@ -80,9 +73,7 @@ Track and compare defense spending trends over time for different countries. Thi
   - Military spending as a percentage of GDP.
   - Sunburst charts showing budget allocation across different military branches.
 
-\<br\>
-![Defense Budgt](assets\Defense Budget.png)
-\<br\>
+![DefenseBudget](assets/Defense_Budget.png)
 
 -----
 
@@ -96,9 +87,8 @@ Track and compare defense spending trends over time for different countries. Thi
 
 - Analyze spending patterns and arms race dynamics.
 
-<br>
-![Military Expenditure](assets\Military Expenditure.png)
-<br>
+![MilitaryExpenditure](assets/Military_Expenditure.png)
+
 ----
 
 # Global Defense Trade
@@ -109,9 +99,7 @@ Explore the global flow of military hardware with interactive visualizations of 
   - Sankey diagrams showing trade relationships between nations.
   - Analysis of the types of military equipment being traded.
 
-\<br\>
-![Global Trade](assets\Trade Data.png)
-\<br\>
+![GlobalTrade](assets/Trade_Data.png)
 
 -----
 
@@ -126,9 +114,8 @@ Explore the global flow of military hardware with interactive visualizations of 
 
 - Compare the performance of companies from different countries.
 
-<br>
-![Defense Companies](assets\Defense Companies.png)
-<br>
+![DefenseCompanies](assets/Defense_Companies.png)
+
 ------
 
 # Historical Major Conflicts Dashboard
@@ -139,9 +126,7 @@ Analyze significant military conflicts throughout history to understand their sc
   - View timelines and key events for each major war.
   - Visualize data on casualties and economic impact.
 
-\<br\>
-![Major Conflicts](assets\Military Conflicts.png)
-\<br\>
+![MajorConflicts](assets/Military_Conflicts.png)
 
 -----
 
@@ -154,27 +139,9 @@ This predictive analytics module forecasts potential shifts in global military p
   - Population and demographic trends.
   - Current technological and military investment rates.
 
-\<br\>
-![Predictions](assets\Military Conflicts.png)
-\<br\>
+![Predictions](assets/Predictions.png)
 
 -----
-
-# Usage
-
-**Development Environment:**\<br\>
-To set up your local environment, install the required Python dependencies by running the following command in your terminal:
-`pip install -r requirements.txt`
-
-**Run via Localhost:**\<br\>
-To launch the Streamlit application on your local machine, run the following command:
-`streamlit run Home.py`
-
-**Deployed Application:**\<br\>
-*(Add the link here once your app is deployed)*
-`[Link to your deployed Streamlit app]`
-
-\<br\>
 
 ## Running the App
 1. Clone or unzip the project.
@@ -187,6 +154,12 @@ To launch the Streamlit application on your local machine, run the following com
    streamlit run Home.py
    ```
 4. Use the sidebar to navigate between pages.
+
+
+**Deployed Application:**
+`https://theartofwar-rbuybzjjop7qrupggfvmr4.streamlit.app/`
+
+
 
 
 
