@@ -36,7 +36,8 @@ st.markdown(
 st.markdown("<h1>🎖️ Art of War</h1>", unsafe_allow_html=True)
 st.markdown("""
 ###  Welcome to 
-The Military Data Analysis Platform
+
+            The Military Data Analysis Platform
 
 Embark on a journey through the unseen dynamics of global defense.
 
@@ -47,5 +48,6 @@ Embark on a journey through the unseen dynamics of global defense.
 - **Hidden Patterns** – uncover insights with interactive charts  
 
 Dive deep into data and explore the forces shaping our world 
+            
             — all in one place!
 """)
